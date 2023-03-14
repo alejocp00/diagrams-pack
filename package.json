@@ -1,0 +1,27 @@
+{
+  "name": "diagrams-pack",
+  "displayName": ":Diagrams pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/diagrams-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/diagrams-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all diagrams extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "pierre3.csharp-to-plantuml",
+    "hediet.vscode-drawio",
+    "well-ar.plantuml",
+    "jebbs.plantuml"
+  ]
+}
